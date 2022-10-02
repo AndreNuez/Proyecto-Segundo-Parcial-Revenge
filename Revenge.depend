@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1638828516 source:c:\users\usuario\documents\utn\primer cuatrimestre\laboratorio i\revenge\revenge\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	"funciones.h"
+
+1638828516 c:\users\usuario\documents\utn\primer cuatrimestre\laboratorio i\revenge\revenge\funciones.h
+
+1638832591 source:c:\users\usuario\documents\utn\primer cuatrimestre\laboratorio i\revenge\revenge\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<ctime>
+	"funciones.h"
+
